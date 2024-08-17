@@ -1,0 +1,14 @@
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\bin\Debug\net8.0\compressor-decompressor-csharp.exe
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\bin\Debug\net8.0\compressor-decompressor-csharp.deps.json
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\bin\Debug\net8.0\compressor-decompressor-csharp.runtimeconfig.json
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\bin\Debug\net8.0\compressor-decompressor-csharp.dll
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\bin\Debug\net8.0\compressor-decompressor-csharp.pdb
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\obj\Debug\net8.0\compressor-decompressor-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\obj\Debug\net8.0\compressor-decompressor-csharp.AssemblyInfoInputs.cache
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\obj\Debug\net8.0\compressor-decompressor-csharp.AssemblyInfo.cs
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\obj\Debug\net8.0\compressor-decompressor-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\obj\Debug\net8.0\compressor-decompressor-csharp.dll
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\obj\Debug\net8.0\refint\compressor-decompressor-csharp.dll
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\obj\Debug\net8.0\compressor-decompressor-csharp.pdb
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\obj\Debug\net8.0\compressor-decompressor-csharp.genruntimeconfig.cache
+C:\Users\Cyril_Hancock\MyAdvanceProjects\compressor-decompressor-csharp\obj\Debug\net8.0\ref\compressor-decompressor-csharp.dll
